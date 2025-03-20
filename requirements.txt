@@ -1,0 +1,11 @@
+requests
+json
+pandas
+re
+os
+python-dotenv
+sqlalchemy
+pymysql
+datetime
+pytz
+bs4
