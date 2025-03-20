@@ -28,18 +28,17 @@ The project focuses on:
 
 ## 🏗️ Project Structure
 
-📂 Gans-Scooter-Mobility
-│── 📂 data
-│ ├── cities.sql
-│ ├── schema.png
-│── 📂 notebooks
-│ ├── API_flights.ipynb
-│ ├── API_weather.ipynb
-│ ├── web_scraping.ipynb
-│── .gitignore
-│── requirements.txt 
-│── README.md
-
+📂 Gans-Scooter-Mobility  
+│── 📂 data  
+│    ├── cities.sql  
+│    ├── schema.png  
+│── 📂 notebooks  
+│    ├── API_flights.ipynb  
+│    ├── API_weather.ipynb  
+│    ├── web_scraping.ipynb  
+│── .gitignore  
+│── requirements.txt  
+│── README.md  
 
 ---
 
