@@ -124,7 +124,8 @@ The **Extract, Transform, Load (ETL) process** consolidates the collected data f
 - **Python** 🐍 (for scripting and automation)
 - **BeautifulSoup & Scrapy** (for web scraping)
 - **Requests & JSON** (for API data collection)
-- **SQLite/PostgreSQL** (for database management)
+- **APIs**: OpenWeather, AeroDataBox
+- **Database**: MySQL (SQL Workbench)
 - **Pandas & NumPy** (for data transformation)
 - **Jupyter Notebook** (for analysis)
 
